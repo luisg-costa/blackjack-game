@@ -5,7 +5,7 @@
 * [General Info](#general-information)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Room for Improvement](#room-for-improvement)
+* [Improvements](#room-for-improvement)
 * [Contact](#contact)
 
 
@@ -30,9 +30,8 @@ Provide various use cases and code examples here.
 
 `write-your-code-here`
 
-## Room for Improvement
+## Improvements needed
 
-Room for improvement:
 - Make a UI to make this game more user friendly.
 
 
