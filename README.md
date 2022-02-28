@@ -1,6 +1,5 @@
 # Blackjack Game
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> This is a blackjack game made with python code and using oop programming.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -81,9 +80,3 @@ Give credit here.
 ## Contact
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
