@@ -5,17 +5,21 @@
 * [General Info](#general-information)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Improvements](#room-for-improvement)
+* [Improvements Needed](#improvements-needed)
 * [Contact](#contact)
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-This game is made with different python objects
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+This Blackjack is composed for 1 human player and 1 (machine) dealer. 
+We have Card class e and Deck class to make a deck of cards. This deck have all cards valued.
+Hand class handle with player and dealers hand in a game.
+Game control makes all controls during the game.
+We also have a Bet class to deal with players bet.
+
+Finally, we have a BlackJack to make all class working together to build a game.
+
+Hope you enjoy this BlackJack Game!
 
 ## Setup
 To run this game, you need to download and unzip the code.
