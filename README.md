@@ -29,11 +29,15 @@ python BlackJack.py
 ```
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
 
-![sdaffds](https://user-images.githubusercontent.com/99747197/155983777-57ddba9c-c7f7-448c-a875-90be86835529.png)
-`write-your-code-here`
+After you run a game, you need to insert you name:
+![insert_name](https://user-images.githubusercontent.com/99747197/155983777-57ddba9c-c7f7-448c-a875-90be86835529.png)
+
+Now, you need to make a bet (you have 100 chips):
+![bet](https://user-images.githubusercontent.com/99747197/155984137-899e4dfa-bedb-4ab5-9ec0-467d134181a2.png)
+
+After that, the game begins. You can see your hand and can see just one card of the dealer. Now you need to choose *HIT* or *STAND*
+![image](https://user-images.githubusercontent.com/99747197/155984204-f82d2007-03fe-4034-99d4-cba48bbbbdbf.png)
 
 ## Improvements needed
 
