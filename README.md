@@ -22,7 +22,8 @@ Finally, we have a BlackJack to make all class working together to build a game.
 Hope you enjoy this BlackJack Game!
 
 ## Setup
-To run this game, you need to download and unzip the code. If you don´t have python, you need to [install it first](https://www.python.org/downloads/)
+To run this game, you need to download and unzip the code. If you don´t have python, you need to [install it first](https://www.python.org/downloads/).
+
 Run a terminal command in game folder and run the follow command:
 ```
 python BlackJack.py
