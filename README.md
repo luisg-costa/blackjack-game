@@ -36,8 +36,14 @@ After you run a game, you need to insert you name:
 Now, you need to make a bet (you have 100 chips):
 ![bet](https://user-images.githubusercontent.com/99747197/155984137-899e4dfa-bedb-4ab5-9ec0-467d134181a2.png)
 
-After that, the game begins. You can see your hand and can see just one card of the dealer. Now you need to choose *HIT* or *STAND*
-![image](https://user-images.githubusercontent.com/99747197/155984204-f82d2007-03fe-4034-99d4-cba48bbbbdbf.png)
+After that, the game begins. You can see your hand and can see just one card of the dealer. Now you need to choose **HIT**(to had more card to your hand) or **STAND**(to stop)
+![hands](https://user-images.githubusercontent.com/99747197/155984204-f82d2007-03fe-4034-99d4-cba48bbbbdbf.png)
+
+When the game finish and you have some chips, you can choose continue playing or leave the game
+![roundfinished](https://user-images.githubusercontent.com/99747197/155984822-35293e82-7232-420e-8e64-8ef1b7749c84.png)
+
+When you have 0 chips, game ends.
+![exitgame](https://user-images.githubusercontent.com/99747197/155985029-222a4bde-1b6b-48c7-b9f6-a1b8a6eaad37.png)
 
 ## Improvements needed
 
